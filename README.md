@@ -24,7 +24,7 @@ The inspiration behind GlanceValue arose from the need to provide a more interac
 - react-draggable
 
 ## Screenshots
-| Screenshot : App Screen |
+| Screenshot : Glance Value App Screen |
 |--------------|
 | ![App_Screenshot](src/img/Screenshot_Glance_Value.png) |
 
