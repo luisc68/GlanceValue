@@ -1,4 +1,4 @@
-# GlanceValue
+# Glance Value
 
 ## Description
 GlanceValue is an application that visualizes real-time statistics of players on a gaming team. It allows users to quickly understand player statistics and make real-time strategic decisions during gameplay.
