@@ -1,0 +1,131 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* body {
+  overflow: hidden;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url("https://i.ytimg.com/vi/Wrdh5HrOCMc/maxresdefault.jpg");
+  background-size: cover;
+  background-position: center;
+} */
+
+.menu-button {
+  position: fixed; /* Cambia 'absolute' a 'fixed' */
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background-color: rgb(0, 255, 76);
+  cursor: grab;
+  z-index: 10;
+}
+
+
+
+.bubble {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0; /* Add this for animation */
+  /* Otros estilos para la burbuja */
+}
+
+/* .left
+{
+  translateX: 250px
+}
+
+.return-left{
+  translateX: -250px
+} */
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.bubble img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 5px;
+}
+
+.bubble .player-name {
+  top: 0%;
+  position: absolute;
+  color: white;
+  bottom: 8px; /* Ajusta la posición vertical según sea necesario */
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 8px; /* Ajusta el tamaño de fuente según sea necesario */
+  white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+}
+
+
+
+
+.modal {
+  background-color: white; /* Background color changed to white */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 300px; /* Adjust the width as needed */
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
+
+.modal img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: block;
+  margin: auto;
+  position: relative;
+  top: 5px;
+}
+
+.modal h1 {
+  font-size: 24px;
+  text-align: center;
+}
+
+.close-modal {
+  position: absolute;
+  top: 10px; /* Ajusta la posición vertical según sea necesario */
+  right: 10px; /* Ajusta la posición horizontal según sea necesario */
+  background-color:rgb(0, 255, 76);
+  border: none;
+  font-size: 18px;
+  border-radius: 40px;
+  cursor: pointer;
+  color: #000; /* Cambia el color del botón de cierre si es necesario */
+}
+
+.close-modal:hover {
+  color:black; /* Cambia el color al pasar el mouse si es necesario */
+  background-color: red;
+  
+}
