@@ -1,0 +1,8 @@
+/* background con imagen del index */
+body {
+  background-image: url("./img/backg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
