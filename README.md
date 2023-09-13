@@ -26,7 +26,7 @@ The inspiration behind GlanceValue arose from the need to provide a more interac
 ## Screenshots
 | Screenshot : App Screen |
 |--------------|
-| ![App_Screenshot](src/img/Screenshot_Glance_Value.jpg) |
+| ![App_Screenshot](src/img/Screenshot_Glance_Value.png) |
 
 ## Contribution
 If you would like to contribute to this project, follow these steps:
