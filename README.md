@@ -37,7 +37,7 @@ If you would like to contribute to this project, follow these steps:
 5. Open a pull request on GitHub.
 
 ## Authors
-- [Eduardo Martinez](https://github.com/Dwardmr) - Lead Developer
+- [Eduardo Martinez](https://github.com/ed-mart-r) - Lead Developer
 - [Paul Avila](https://github.com/paul48avila) - Developer
 - [Jose Cerna](https://github.com/luisc68) - Developer
 
