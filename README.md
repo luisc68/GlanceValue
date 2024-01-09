@@ -3,6 +3,9 @@
 ## Description
 GlanceValue is an application that visualizes real-time statistics of players on a gaming team. It allows users to quickly understand player statistics and make real-time strategic decisions during gameplay.
 
+## Sitio web demo
+- [Sitio web demo](https://glancevalue.netlify.app) 
+
 ## Inspiration
 The inspiration behind GlanceValue arose from the need to provide a more interactive and visually appealing way to represent player data in a game. We aimed to create a unique user experience that enables users to instantly access information about their teammates and opponents.
 
